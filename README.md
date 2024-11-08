@@ -1,2 +1,2 @@
 # mastersCode
-code for masters thesis
+code for masters thesis. Newmark method implementation can be found in MainNewmark.ipynb
